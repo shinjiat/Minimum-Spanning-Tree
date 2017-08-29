@@ -1,8 +1,7 @@
 /*
 	Teo Shin Jiat
 	4947435
-	Tested and compiled successfully on Windows 10 (Codeblocks)
-	Please read instruction.docx in order to view the MST picture
+	Tested and compiled successfully on Ubuntu (16.04)
 	Function declaration in header.h
 	Function definition in function.cpp
 
