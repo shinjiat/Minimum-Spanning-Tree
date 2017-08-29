@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1464352308 source:c:\users\shin jiat\desktop\uow\203\assignment 3\function.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	"header.h"
+
+1464350883 c:\users\shin jiat\desktop\uow\203\assignment 3\header.h
+
+1464350913 source:c:\users\shin jiat\desktop\uow\203\assignment 3\main.cpp
+	<iostream>
+	<limits>
+	<stdio.h>
+	<string>
+	<string.h>
+	"header.h"
+
+1498507859 source:c:\users\shin jiat\desktop\uow\old uow\203\assignment 3\function.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"header.h"
+
+1498507101 c:\users\shin jiat\desktop\uow\old uow\203\assignment 3\header.h
+
+1498481400 source:c:\users\shin jiat\desktop\uow\old uow\203\assignment 3\main.cpp
+	<iostream>
+	<limits>
+	<stdio.h>
+	<string>
+	<string.h>
+	"header.h"
+
