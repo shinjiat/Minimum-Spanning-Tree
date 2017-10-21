@@ -11,7 +11,7 @@ Tested and compiled successfully on Ubuntu 16.04's terminal.
 ## Note
     1) Windows version of this can be done, instructions were given in the instruction.docx file.
     
-    2) Screenshots of manual entering nodes information can be found [heree](https://github.com/shinjiat/Minimum-Spanning-Tree/tree/master/Assignment%203/screenshots).
+    2) Screenshots of manual entering nodes information can be found [here](shinjiat/Minimum-Spanning-Tree/tree/master/Assignment%203/screenshots).
     
     3) clear && g++ *.cpp *.h -o main && ./main
         This line of command will clear the terminal, compile all the cpp and header files, name the executable as "main" and then run it finally.
