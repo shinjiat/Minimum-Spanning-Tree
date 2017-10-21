@@ -5,8 +5,7 @@ Tested and compiled successfully on Ubuntu 16.04's terminal.
     1) sudo apt-get install graphviz 
         *graphviz is an external library that help me to construct a spanning tree on an image, which is shown down below
     
-    2) clear && g++ *.cpp *.h -o main && ./main
-        This line of command will clear the terminal, compile all the cpp and header files, name the executable as "main" and then run it finally.
+
     
     
 ## Note
@@ -14,6 +13,9 @@ Tested and compiled successfully on Ubuntu 16.04's terminal.
     
     2) Screenshots of manual entering nodes information can be found in the screenshot folder
     https://github.com/shinjiat/Minimum-Spanning-Tree/tree/master/Assignment%203/screenshots
+    
+    3) `clear && g++ *.cpp *.h -o main && ./main`
+        This line of command will clear the terminal, compile all the cpp and header files, name the executable as "main" and then run it finally.
 
 ## Screenshot
 ### Before random node deletion
