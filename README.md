@@ -16,7 +16,7 @@ Tested and compiled successfully on Ubuntu 16.04's terminal.
     3) clear && g++ *.cpp *.h -o main && ./main
         This line of command will clear the terminal, compile all the cpp and header files, name the executable as "main" and then run it finally.
         
-        [I'm a relative reference to a repository file](../shinjiat/Minimum-Spanning-Tree/tree/master/Assignment%203/screenshots)
+        [I'm a relative reference to a repository file](https://github.com/shinjiat/Minimum-Spanning-Tree/tree/master/Assignment%203/screenshots)
 
 ## Screenshot
 ### Before random node deletion
