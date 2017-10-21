@@ -1,7 +1,7 @@
 # A College Assignment to find the minimum spanning tree with Prim's Algorithm
 Tested and compiled successfully on Ubuntu 16.04's terminal.
 
-## Requirements
+## Requirement
     1) sudo apt-get install graphviz 
              *graphviz is an external library that help me to construct a spanning tree on an image, which is shown down below
     
