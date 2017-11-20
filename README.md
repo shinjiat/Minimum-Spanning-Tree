@@ -21,6 +21,8 @@ Tested and compiled successfully on Ubuntu 16.04's terminal.
 ### Before random node deletion
 ![image](https://github.com/shinjiat/Minimum-Spanning-Tree/blob/master/Assignment%203/screenshots/read%20from%20file%201.png?raw=true)
 
+After closing the image (diagram before delete.png), the program will ask whether you want to delete an Edge randomly.
+Inputting a 'y' will results the image(diagram after delete.png) below.
 
 ### After random node deletion
 ![image](https://github.com/shinjiat/Minimum-Spanning-Tree/blob/master/Assignment%203/screenshots/read%20from%20file%202.png?raw=true)
